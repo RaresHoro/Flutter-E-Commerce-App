@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:sneakers_app/data/dummy_data.dart';
+import 'package:sneakers_app/data/dt.dart';
 import 'package:sneakers_app/widget/snack_bar.dart';
 
 import '../models/models.dart';
